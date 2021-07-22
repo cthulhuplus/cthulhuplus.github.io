@@ -25,12 +25,10 @@ CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally other
   });
 </script>
 </html>` |
-|
 | Clipped & Highlighted Hijinx: | [![YouTube Linked Icon](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus) | 
 `<html>  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </html>` |
-
 | Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis: | 
 [![Crohn's and Colitis Foundation Linked Icon](https://receptrx.com/wp-content/uploads/2019/02/crohns_colitis_foundation_logo.png)](https://www.crohnscolitisfoundation.org/) | |
 
