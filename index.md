@@ -2,9 +2,9 @@
 
 CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally others as well. Thursday nights (9:00pm EST) they head out with their Streamy Teamy for memes and fun times.
 
-Live Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/356/356001.png)](https://twitch.tv/cthulhuplus)
+Live Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/356/356001.png =50%)](https://twitch.tv/cthulhuplus)
 
-Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus)
+Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png =50%)](https://youtube.com/cthulhuplus)
 
 Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis: [![Alt text](https://receptrx.com/wp-content/uploads/2019/02/crohns_colitis_foundation_logo.png)](https://www.crohnscolitisfoundation.org/)
 
