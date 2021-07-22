@@ -3,10 +3,14 @@
 CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally others as well. Thursday nights (9:00pm EST) they head out with their Streamy Teamy for memes and fun times.
 
 Live Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/356/356001.png)](https://twitch.tv/cthulhuplus)
+
+Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus)
+
+Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis: [![Alt text](https://receptrx.com/wp-content/uploads/2019/02/crohns_colitis_foundation_logo.png)](https://www.crohnscolitisfoundation.org/)
+
 <p>
 <!-- Add a placeholder for the Twitch embed -->
 <div id="twitch-embed"></div>
-
 <!-- Load the Twitch embed script -->
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 
@@ -17,10 +21,7 @@ Live Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/356/356001.pn
   });
 </script>
 <p>
- 
-Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus)
- <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis:
-[![Alt text](https://receptrx.com/wp-content/uploads/2019/02/crohns_colitis_foundation_logo.png)](https://www.crohnscolitisfoundation.org/)
+Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus)
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
