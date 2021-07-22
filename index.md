@@ -20,6 +20,8 @@ Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis:
 <!-- Create a Twitch.Player object. This will render within the placeholder div -->
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
+    width: 560,
+    height: 315,
     channel: "cthulhuplus"
   });
 </script>
