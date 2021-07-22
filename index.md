@@ -2,6 +2,7 @@
 
 CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally others as well. Thursday nights (9:00pm EST) they head out with their Streamy Teamy for memes and fun times.
 
+| --- | --- | --- |
 | Live Hijinx: | [![Twitch Linked Icon](https://image.flaticon.com/icons/png/512/356/356001.png)](https://twitch.tv/cthulhuplus) | 
 <html>
 <p>
@@ -19,7 +20,7 @@ CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally other
   });
 </script>
 </html> |
-
+|
 | Clipped & Highlighted Hijinx: | [![YouTube Linked Icon](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus) | 
 <html>  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
