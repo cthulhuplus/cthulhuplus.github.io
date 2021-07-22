@@ -16,7 +16,7 @@ CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally other
   </tr>
   <tr>
     <td>YouTube</td>
-    <td><a href="https://youtube.com/cthulhuplus"><img alt "YouTube Linked Icon" src="https://youtube.com/cthulhuplus" width="560"></a></td>
+    <td><a href="https://youtube.com/cthulhuplus"><img alt "YouTube Linked Icon" src="https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus" width="560"></a></td>
     <td><iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
   </tr>
   <tr>
