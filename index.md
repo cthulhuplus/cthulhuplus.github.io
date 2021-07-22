@@ -22,6 +22,4 @@ Support the Crohn's & Colitis Foundation or learn more about Crohn's & Colitis: 
 </script>
 <p>
 
-Clipped & Highlighted Hijinx: [![Alt text](https://image.flaticon.com/icons/png/512/187/187209.png)](https://youtube.com/cthulhuplus)
-<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pu6Cdz1FeNQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
