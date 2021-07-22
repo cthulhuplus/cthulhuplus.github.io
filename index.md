@@ -21,7 +21,7 @@ CthulhuPlus plays video games, mostly Deep Rock Galactic, but occasionally other
   </tr>
   <tr>
     <td>Crohn's & Colitis Foundation</td>
-    <td><a href="https://www.crohnscolitisfoundation.org/"><img alt="Crohn's and Colitis Foundation Linked Icon"></a></td>
+    <td><a href="https://www.crohnscolitisfoundation.org/"><img alt="Crohn's and Colitis Foundation Linked Icon" src="https://receptrx.com/wp-content/uploads/2019/02/crohns_colitis_foundation_logo.png"></a></td>
     <td></td>
   </tr>
 </table>
